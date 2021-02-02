@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29201.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Gears5", "Gears5.vbproj", "{24B8649D-B8D2-40F7-BB81-FA3FF051CF21}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24B8649D-B8D2-40F7-BB81-FA3FF051CF21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24B8649D-B8D2-40F7-BB81-FA3FF051CF21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24B8649D-B8D2-40F7-BB81-FA3FF051CF21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24B8649D-B8D2-40F7-BB81-FA3FF051CF21}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B3A34221-F887-47D3-9C6C-0FB81F19146B}
+	EndGlobalSection
+EndGlobal
